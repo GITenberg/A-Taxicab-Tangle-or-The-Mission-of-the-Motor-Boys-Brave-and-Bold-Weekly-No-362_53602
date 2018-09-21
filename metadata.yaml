@@ -1,0 +1,26 @@
+_repo: A-Taxicab-Tangle-or-The-Mission-of-the-Motor-Boys-Brave-and-Bold-Weekly-No-362_53602
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Matthews, Stanley R.
+    gutenberg_agent_id: '43601'
+    url: http://www.gutenberg.org/2009/agents/43601
+description: ''
+gutenberg_issued: '2016-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Thieves -- Juvenile fiction'
+- !lcsh 'Dime novels'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mechanics -- Juvenile fiction'
+- GITenberg
+title: "A Taxicab Tangle; or, The Mission of the Motor Boys\r\nBrave and Bold Weekly\
+  \ No. 362"
+url: http://www.gutenberg.org/ebooks/53602

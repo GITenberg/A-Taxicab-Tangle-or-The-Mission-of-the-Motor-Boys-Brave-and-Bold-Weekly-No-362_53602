@@ -1,11 +1,16 @@
 _repo: A-Taxicab-Tangle-or-The-Mission-of-the-Motor-Boys-Brave-and-Bold-Weekly-No-362_53602
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   adapter:
     agent_name: Matthews, Stanley R.
     gutenberg_agent_id: '43601'
     url: http://www.gutenberg.org/2009/agents/43601
+covers:
+- cover_type: archival
+  image_path: 53602-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53602#A-Taxicab-Tangle-or-The-Mission-of-the-Motor-Boys-Brave-and-Bold-Weekly-No-362
 gutenberg_issued: '2016-11-26'
 gutenberg_type: Text
 identifiers:
